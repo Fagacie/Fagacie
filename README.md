@@ -1,4 +1,4 @@
-# Abbas Usman Adamu
+# Usman Abbas Adamu
 Final-Year Software Engineering Student | IoT & Web Development
 
 # Portfolio Website
